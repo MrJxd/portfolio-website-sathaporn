@@ -101,7 +101,7 @@ export function CertificatesSection() {
             เกียรติบัตร<span className="text-gradient-primary">และรางวัล</span>
           </h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            {profile?.certificates_description || "รางวัลและใบประกาศนียบัตรที่ครูกฤษฎาได้รับจากการทุ่มเทในการพัฒนาการเรียนการสอน ปี 2569"}
+            {profile?.certificates_description || "รางวัลและใบประกาศนียบัตรที่ครูสถาพรได้รับจากการทุ่มเทในการพัฒนาการเรียนการสอน ปี 2569"}
           </p>
         </div>
 
